@@ -3,8 +3,8 @@ b=int(input("Enter the number2:"))
 c=int(input("Enter the number3:"))
 if(a>b):
   if(a>c):
-    print("a is greater")
+    print(a)
 elif(b>c):
-  print("b is greater")
+  print(b)
 else:
-  print("c is greater")
+  print(c)
